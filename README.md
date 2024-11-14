@@ -1,4 +1,6 @@
-#### <div align="center">I'm Sainath, a passionate full-stack MERN developer 👨‍💻 with a degree in Computer Science from RV College of Engineering (RVCE). Alongside web development, I have a keen interest in Deep Learning and always enjoy expanding my skill set.</div>  
+## <div align="center">Hi there 👋</div>
+
+### <div align="center">I'm Sainath, a passionate full-stack MERN developer 👨‍💻 with a degree in Computer Science from RV College of Engineering (RVCE). Alongside web development, I have a keen interest in Deep Learning and always enjoy expanding my skill set.</div>  
   
 
 🔭 I’m currently working on
@@ -68,7 +70,7 @@
 <a href="https://github.com/SainathSY" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Sainath S Y" target="_blank">
+<a href="www.linkedin.com/in/sainath-s-y-6b568b231" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
