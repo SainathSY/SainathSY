@@ -1,10 +1,13 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Sainath, a passionate full-stack MERN developer 👨‍💻 with a degree in Computer Science from RV College of Engineering (RVCE). Alongside web development, I have a keen interest in Deep Learning and always enjoy expanding my skill set.<br><br>🔭 I’m currently working on<br><br>
+Hi there 👋<br>I'm Sainath, a passionate full-stack MERN developer 👨‍💻 with a degree in Computer Science from RV College of Engineering (RVCE). Alongside web development, I have a keen interest in Deep Learning and always enjoy expanding my skill set.<br><br>
+🔭 I’m currently working on<br><br>
 - Building efficient, scalable full-stack applications using MERN stack<br>
-- Exploring new deep learning techniques and their applications<br><br>🌱 Learning & Growing<br><br>
+- Exploring new deep learning techniques and their applications<br><br>
+🌱 Learning & Growing<br><br>
 - Continuously honing my skills in data structures and algorithms (DSA)<br>
 - Experimenting with Docker to streamline development workflows<br>
-- Diving into Flask for backend development<br><br>💼 Technical Skills<br><br>
+- Diving into Flask for backend development<br><br>
+💼 Technical Skills<br><br>
 - Languages & Frameworks: JavaScript (MERN stack), Python, Java, Flask<br>
 - Other Skills: Docker, DSA, deep learning basics<br>
 
