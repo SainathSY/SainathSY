@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi there 👋  
+#Hi there 👋  
 I'm Sainath, a passionate full-stack MERN developer 👨‍💻 with a degree in Computer Science from RV College of Engineering (RVCE). Alongside web development, I have a keen interest in Deep Learning and always enjoy expanding my skill set.  
 
 ### 🔭 I’m currently working on
@@ -16,7 +15,7 @@ I'm Sainath, a passionate full-stack MERN developer 👨‍💻 with a degree in
 - **Other Skills**: Docker, DSA, basic deep learning  
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sainath_sy_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sainath-s-y-6b568b231)<br> 
 
 # 💻 Tech Stack:
