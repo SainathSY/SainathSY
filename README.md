@@ -1,7 +1,7 @@
 ## <div align="center">Hi there 👋</div>
-
+<br/>  
 ### <div align="center">I'm Sainath, a passionate full-stack MERN developer 👨‍💻 with a degree in Computer Science from RV College of Engineering (RVCE). Alongside web development, I have a keen interest in Deep Learning and always enjoy expanding my skill set.</div>  
-  
+<br/>
 
 🔭 I’m currently working on
 - Building efficient, scalable full-stack applications using MERN stack
