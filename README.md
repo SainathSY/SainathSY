@@ -7,7 +7,8 @@ Hi there 👋<br>I'm Sainath, a passionate full-stack MERN developer 👨‍💻
 🌱 Learning & Growing<br><br>
 - Continuously honing my skills in data structures and algorithms (DSA)<br>
 - Experimenting with Docker to streamline development workflows<br>
-- Diving into Flask for backend development<br><br>
+- Diving into Flask for backend development<br>
+<br>
 💼 Technical Skills<br><br>
 - Languages & Frameworks: JavaScript (MERN stack), Python, Java, Flask<br>
 - Other Skills: Docker, DSA, deep learning basics<br>
